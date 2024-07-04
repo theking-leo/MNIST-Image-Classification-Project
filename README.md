@@ -1,7 +1,3 @@
-Here's a detailed README file for your GitHub repository. This README will explain every aspect of your image classification project using the MNIST dataset.
-
----
-
 # MNIST Image Classification Project
 
 This project demonstrates how to build, train, and evaluate a Convolutional Neural Network (CNN) to classify images from the MNIST dataset. The MNIST dataset consists of 60,000 training images and 10,000 test images of handwritten digits (0-9).
